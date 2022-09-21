@@ -1,3 +1,3 @@
-#try to import the os and see what the file is
-xfile = open('file.txt', 'r')
-print(xfile.read())
+xfile = open(r'C:\Users\student\Documents\GitHub\Computer-Science-Stuff\py4e\lesson_8\file.txt')
+print(xfile)
+#print(xfile.read())
